@@ -16,6 +16,6 @@ public class AppTest
    public void test() {
     
      App p = new App();
-    assertEquals(20,p.add(10,15));
+    assertEquals(20,p.add(10,10));
     }
 }
